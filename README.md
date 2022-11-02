@@ -10,6 +10,6 @@ download dataset file: https://data.mendeley.com/datasets/tywbtsjrjv/1
 ### TODO LIST
 - [x] Prepare Data
 - [x] Implement Shallow CNN
-- [ ] Implement PCA
-- [ ] Impelment Kernel SVM, Random Forest
+- [x] Implement PCA
+- [x] Impelment Kernel SVM, Random Forest
 - [ ] Quantization
